@@ -1,0 +1,4 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis 
+1,45,M,120/80,High,Diabetes 
+2,60,F,140/90,Normal,Hypertension 
+3,30,M,110/70,Low,Healthy 
